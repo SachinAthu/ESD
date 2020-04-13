@@ -1,3 +1,7 @@
 Welcome to kitchen
 
-recipes -: Kheer, Pasta
+Kheer
+Pasta
+chicken
+
+
